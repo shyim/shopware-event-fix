@@ -1,0 +1,9 @@
+{
+  "name": "shyim/shopware-event-fix",
+  "keywords": ["shopware", "event-fix", "phpunit"],
+  "description": "Fixes Event Listener in PHPUnit. Needed for Shopware Versions under 5.5.4",
+  "license": "MIT",
+  "autoload": {
+    "files": ["src/EventFix.php"]
+  }
+}
